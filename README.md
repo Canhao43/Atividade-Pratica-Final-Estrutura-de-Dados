@@ -6,7 +6,7 @@ Integrantes : Caio Marques de Souza /
               Lucas Cardoso dos Santos /
               Lucas Grigoleto de Melo Gomes 
 
-No projeto que nós foi passado havia um desafio que era adicionar pelo menos 3 estruturas de dados porém com o decorer do trabalho acabamos por criar um programa q só utiliza 2 estruturas (Struct e Vetor), tentamos colocar a 3º estrtura porém a funcionalidade do programa estava sendo coloca em risco. Com esse osbtáculo resolvemos postar 2 pastas a 1º será com o programa funcionando com as 2 estruturas e a 2º pasta será com o programa com 3 ou mais estruturas(está pasta será colocada porém só haverá um .cpp dentro dela se conseguirmos realizar o desafio, caso contrário a pasta estará vazia).
+No projeto que nós foi passado havia um desafio que era adicionar pelo menos 3 estruturas de dados porém com o decorer do trabalho acabamos por criar um programa q só utiliza 2 estruturas (Struct e Vetor), tentamos colocar a 3º estrtura porém a funcionalidade do programa estava sendo coloca em risco. Com esse osbtáculo resolvemos postar 2 pastas a 1º será com o programa funcionando com as 2 estruturas e a 2º pasta será com o programa com 3 ou mais estruturas(está pasta só será colocada se conseguirmos realizar o desafio).
 
 O projeto tem um menu bem didático e suas funções são:  <1>Cadastrar Disciplina/
                                                         <2>Alterar Disciplina/
