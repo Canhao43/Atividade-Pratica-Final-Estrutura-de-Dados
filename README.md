@@ -1,5 +1,5 @@
 # Atividade-Pratica-Final-Estrutura-de-Dados
-Nesta atividade nos foi proposto a fazer um programa que faria a o gerenciamento acadêmico.
+Nesta atividade nos foi proposto a fazer um programa que faria o gerenciamento acadêmico.
 
 Integrantes : Caio Marques de Souza / 
               Matheus Enrique Castro Silva / 
